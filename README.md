@@ -19,7 +19,7 @@ The dataset was created for research on using advanced sensors and vision techno
       
 ## 2. Real-Time Validation (Demo)
 
-![demo](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/images/demo.jpg)
+[![Watch the video](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/images/demo.jpg)](https://youtu.be/E0blk93KIK4)
     
    
  
