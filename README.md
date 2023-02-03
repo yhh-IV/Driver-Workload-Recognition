@@ -1,6 +1,6 @@
 # Driver-Workload-Recognition
 
-The dataset can be downloaded [here](https://drive.google.com/file/d/1M2_Nf0A7ysnZ3c16f1pFDruTYVxGqZnc/view?usp=sharing).
+This dataset is available for research purposes, and the files could be downloaded from the [download page](https://drive.google.com/file/d/1M2_Nf0A7ysnZ3c16f1pFDruTYVxGqZnc/view?usp=sharing).
 
 ## Terms & Conditions
 - The dataset is the sole property of the AutoMan group at the Nanyang Technological University and is protected by copyright. The dataset shall remain the exclusive property of AutoMan.
