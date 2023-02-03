@@ -1,6 +1,15 @@
 # Driver-Workload-Recognition
 
-The dataset was created for research on using advanced sensors and vision technologies to infer driver cognitive loads. This dataset is available for research purposes, files could be downloaded here after the review process.  
+The dataset can be downloaded here.
+
+## Terms & Conditions
+- The dataset is the sole property of the AutoMan group at the Nanyang Technological University and is protected by copyright. The dataset shall remain the exclusive property of AutoMan.
+- The End User acquires no ownership, rights, or title of any kind in all or parts regarding the dataset.
+- Any commercial use of the dataset is strictly prohibited. Commercial use includes, but is not limited to: Testing commercial systems; Using screenshots of subjects from the dataset in advertisements, Selling data or making any commercial use of the dataset, broadcasting data from the dataset.
+- The End User shall not, without prior authorization of the AutoMan group, transfer in any way, permanently or temporarily, distribute or broadcast all or part of the dataset to third parties.
+- The End User shall send all requests for the distribution of the dataset to the AutoMan group.
+- All publications that report on research that uses the dataset should cite our publications.
+
 ## 1. Experimental Platform
   * EEG headset [(EMOTIVE EPOC Flex)](https://www.emotiv.com/)   
     Ensure good contact quality and EEG quality during the experiments.
