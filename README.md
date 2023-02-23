@@ -5,7 +5,7 @@ This dataset is available for research purposes, and the files could be download
 ## Terms & Conditions
 - The dataset is the sole property of the AutoMan group at the Nanyang Technological University and is protected by copyright. The dataset shall remain the exclusive property of AutoMan.
 - The End User acquires no ownership, rights, or title of any kind in all or parts regarding the dataset.
-- Any commercial use of the dataset is strictly prohibited. Commercial use includes, but is not limited to: Testing commercial systems; Using screenshots of subjects from the dataset in advertisements, Selling data or making any commercial use of the dataset, broadcasting data from the dataset.
+- Any commercial use of the dataset is strictly prohibited. Commercial use includes, but is not limited to: testing commercial systems; using screenshots of subjects from the dataset in advertisements, selling data or making any commercial use of the dataset, broadcasting data from the dataset.
 - The End User shall not, without prior authorization of the AutoMan group, transfer in any way, permanently or temporarily, distribute or broadcast all or part of the dataset to third parties.
 - The End User shall send all requests for the distribution of the dataset to the AutoMan group.
 - All publications that report on research that uses the dataset should cite our publications.
