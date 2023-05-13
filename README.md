@@ -32,7 +32,7 @@ Note: data streams with the z-score standardization are presented in the demo vi
 [![Watch the video](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/images/demo.jpg)](https://youtu.be/E0blk93KIK4)
 
 ## 3. Supplemental Results (Without EEG Signals)
-Current wearable EEG equipment inevitably possesses a certain level of intrusiveness, which could affect driver operations to some extent. Therefore, we have carried out additional experiments for the performance comparison of various methods without using EEG signals, and the average results as well as standard deviations across the 5-fold cross validation are presented below, (a) Sunny noon. (b) Foggy dusk. (c) Rainy night.
+Current wearable EEG equipment inevitably affects driver operations to some extent. Therefore, we have carried out additional experiments for the performance comparison of various methods without using EEG signals, and the average results as well as standard deviations across the 5-fold cross validation are presented below, (a) Sunny noon. (b) Foggy dusk. (c) Rainy night.
 
 <img src="https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/images/comparison.png" width="300" alt="">
 
