@@ -27,10 +27,20 @@ H. Yang, J. Wu, Z. Hu, and C. Lv, "Real-Time Driver Cognitive Workload Recogniti
         
   * Simulator [(Carla 0.9.8)](http://carla.org/)    
   
-      
 ## 2. Real-Time Validation (Demo)
 Note: data streams with the z-score standardization are presented in the demo video
 [![Watch the video](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/images/demo.jpg)](https://youtu.be/E0blk93KIK4)
+
+## 3. Supplemental Results (Without EEG Signals)
+Current wearable EEG equipment inevitably possesses a certain level of intrusiveness, which could affect driver operations to some extent. Therefore, we have carried out additional experiments for the performance comparison of various methods without using EEG signals, and the average results as well as standard deviations across the 5-fold cross validation are presented below, (a) Sunny noon. (b) Foggy dusk. (c) Rainy night.
+
+<img src="https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/images/comparison.png" width="300" alt="">
+
+It can be concluded that
+- The recognition accuracy of the proposed method significantly surpasses other baselined models in all situations, and its standard deviation is lower than others in most cases.
+- The recognition accuracy of a specific model increases with extended historical horizons, which is intuitive since a longer historical horizon generally contains more information.
+
+Except for an overall decrease in the recognition accuracy of the model compared to when it has EEG signals, there is almost no change in the conclusion. The phenomenon indicates that the proposed model has a stronger representational capacity in a general sense.
     
    
  
