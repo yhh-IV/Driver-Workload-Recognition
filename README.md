@@ -10,7 +10,7 @@ This dataset is available for research purposes, and the files could be download
 - The End User shall send all requests for the distribution of the dataset to the AutoMan group.
 - All publications that report on research that uses the dataset should cite our publications.
 
-H. Yang, J. Wu, Z. Hu, and C. Lv, "Real-Time Driver Cognitive Workload Recognition: Attention-Enabled Learning With Multimodal Information Fusion", 2023.
+H. Yang, J. Wu, Z. Hu, and C. Lv, "Real-Time Driver Cognitive Workload Recognition: Attention-Enabled Learning With Multimodal Information Fusion", IEEE Transactions on Industrial Eletronics, 2023.
 
 ## 1. Experimental Platform
   * EEG headset [(EMOTIVE EPOC Flex)](https://www.emotiv.com/)   
