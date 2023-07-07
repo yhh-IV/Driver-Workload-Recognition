@@ -10,7 +10,7 @@
 
 H. Yang, J. Wu, Z. Hu, and C. Lv, “Real-Time Driver Cognitive Workload Recognition: Attention-Enabled Learning With Multimodal Information Fusion”, IEEE Trans. Ind. Electron., early access, Jun. 26, 2023, doi: 10.1109/TIE.2023.3288182.
 
-If you agree with the terms of the agreement contact Haohan Yang (haohan.yang@ntu.edu.sg) to download the dataset. Please, sign the following document and attach it along with your request: [License Agreement](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/Driver_Workload_Dataset_License_Agreement.pdf.)
+If you agree with the terms of the agreement contact Haohan Yang (haohan.yang@ntu.edu.sg) to download the dataset. Please, sign the following document and attach it along with your request: [License Agreement](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/Driver_Workload_Dataset_License_Agreement.pdf)
 
 ## 1. Experimental Platform
   * EEG headset [(EMOTIVE EPOC Flex)](https://www.emotiv.com/)   
