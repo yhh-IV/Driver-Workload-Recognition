@@ -1,7 +1,5 @@
 # Driver-Workload-Recognition
 
-This dataset is available for research purposes, and the files could be downloaded from the [download page](https://entuedu-my.sharepoint.com/:u:/r/personal/haohan_yang_staff_main_ntu_edu_sg/Documents/driver_workload_dataset%20.rar?csf=1&web=1&e=rWlf1p).
-
 ## Terms & Conditions
 - The dataset is the sole property of the AutoMan group at the Nanyang Technological University and is protected by copyright. The dataset shall remain the exclusive property of AutoMan.
 - The End User acquires no ownership, rights, or title of any kind in all or parts regarding the dataset.
@@ -12,7 +10,7 @@ This dataset is available for research purposes, and the files could be download
 
 H. Yang, J. Wu, Z. Hu, and C. Lv, “Real-Time Driver Cognitive Workload Recognition: Attention-Enabled Learning With Multimodal Information Fusion”, IEEE Trans. Ind. Electron., early access, Jun. 26, 2023, doi: 10.1109/TIE.2023.3288182.
 
-If you agree with the terms of the agreement contact Haohan Yang (haohan.yang@ntu.edu.sg) to download the dataset. Please, sign the following document and attach it along with your request: License Agreement.
+If you agree with the terms of the agreement contact Haohan Yang (haohan.yang@ntu.edu.sg) to download the dataset. Please, sign the following document and attach it along with your request: [License Agreement](https://github.com/yhh-IV/Driver-Workload-Recognition/blob/main/Driver_Workload_Dataset_License_Agreement.pdf.)
 
 ## 1. Experimental Platform
   * EEG headset [(EMOTIVE EPOC Flex)](https://www.emotiv.com/)   
